@@ -11,6 +11,7 @@ EPITECH first year project
 
 ## Testing
 `make`
+
 `make tests_run`
 
 ## Author
