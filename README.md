@@ -5,6 +5,7 @@ EPITECH first year project
 ## Requirement
  - [Make](https://www.gnu.org/software/make/)
  - [GCC](https://gcc.gnu.org/)
+ - [Criterion](https://criterion.readthedocs.io/en/master/setup.html#installation)
 
 ## Compilation
   Go to the root of the repository and run `make`, this will build the `libmy.a` lib file
